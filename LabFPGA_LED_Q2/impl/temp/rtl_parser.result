@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/embeded/project/LabFPGA_LED_Q2/src/LED_Q2.v",
+  "InstLine" : 1,
+  "InstName" : "led_q2",
+  "ModuleFile" : "D:/embeded/project/LabFPGA_LED_Q2/src/LED_Q2.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led_q2"
+ }
+]

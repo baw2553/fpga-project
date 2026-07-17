@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/embeded/project/LabFPGA/src/LED.v",
+  "InstLine" : 1,
+  "InstName" : "seg_counter",
+  "ModuleFile" : "D:/embeded/project/LabFPGA/src/LED.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "seg_counter"
+ }
+]

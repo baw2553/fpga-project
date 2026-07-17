@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/embeded/project/LabFPGA_7SEG_Q1/src/SEG_HEX_Q1.v",
+  "InstLine" : 1,
+  "InstName" : "seg_hex_q1",
+  "ModuleFile" : "D:/embeded/project/LabFPGA_7SEG_Q1/src/SEG_HEX_Q1.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "seg_hex_q1"
+ }
+]

@@ -1,0 +1,35 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Fri Jul 10 11:26:00 2026
+
+//Source file index table:
+//file0 "\D:/embeded/project/LabFPGA_LED_Q1/src/LED_Q1.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+NTLUyPTEvvG24hEA2HR3gkWXrk6sMufUWi3d0fR4fRlGqWWDQZoN0/bpHIBaJmZyX9i4YycvzSZL
+qeIMgP6W2jcLAwgPsJpFzc3/K7x2XKzNXaDyKArNa6JikWmHkAR1ViaE54i9uoVQjXuLz1+YhEpa
+AILiqUHRA1OlpMLabWJ2m90jX394DpsZ3HEuPzhbxZdUbZuEAdpk8oSy4nPnX+7UMy28MMXwvO24
+Gc3tWyxam/7muIOTBUvDLQTKAkXG117LYNGWKg8oixeQPqK1rbFU5vDdKFOF2XUcXdBaPj9YuKr0
+vQa9AY11TCKyb5d8T83MRRArouw1x0oMLl4W+Q==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=304)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+H+djJid1CIpGew5u86NJ6Xg5gbeJw7VgdYdmw+z5J12mEzTaLyk58u9IqJ9w587VeyS2ibxOeXyM
+Nt3YEagSlgLAQwsKNUVQglW8KCqumIlFmTF3t2/kqhusZ90zfQuYGFQnjZKVACcusXiQ21dmBhUC
+8DHSgBclrxEGo/s62Cvu2Yy3zh+7wLSJYNAsUuB8VevoBU6S9lEc3qrmdFJH9ZG6i/bWAqVQaTbJ
+Jgv0WZtWJhzrznEAG/KsxNZfmKXFKKO9ul+c2DylpNSGjYSQTOzSxPbmcqXa/1LnHHBAQQNIBrJM
+3ibmRTJMplmf+uNOOS8ArprqevlPQZfUJwKKe5g9nfCiMzTWwDATd0m7IUZrSV6qzSUtvKooCRyV
+9WQ7OM5mPWM6gzUJNHhnGQlSBA==
+`pragma protect end_protected
